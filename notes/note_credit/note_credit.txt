@@ -1,0 +1,47 @@
+Tap Missile
+Credits:
+1)Programmer, Arts, Design:
+Sanjaya Desa
+
+
+
+Resources:
+---------
+I) Sfx
+---------
+
+1)334266__projectsu012__short-explosion-1
+ProjectsU012
+https://freesound.org/people/ProjectsU012/sounds/334266/
+
+2)386862__prof-mudkip__8-bit-explosion
+Prof.Mudkip
+https://freesound.org/people/Prof.Mudkip/sounds/386862/
+
+3)531961__orginaljun__pixel-piano-adventure-melody-loop
+orginaljun
+https://freesound.org/people/orginaljun/sounds/531961/
+
+
+----------
+II) Text
+----------
+
+1)Various Fonts
+Dafont
+https://www.dafont.com/bitmap.php
+
+----------
+III) Art
+----------
+
+1)Android Asset Generator
+Android Assets
+https://romannurik.github.io/AndroidAssetStudio/index.html
+
+2)Graphic Feature Generator
+Norio
+https://www.norio.be/graphic-generator/#
+
+3)Editor
+Krita
